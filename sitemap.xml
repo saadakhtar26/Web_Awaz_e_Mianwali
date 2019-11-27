@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+      <loc>http://www.awazemianwali.info</loc>
+      <lastmod>2019-05-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+
+    <url>
+      <loc>http://www.awazemianwali.info/index.php</loc>
+      <lastmod>2019-05-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+
+    <url>
+      <loc>http://www.awazemianwali.info/news.php</loc>
+      <lastmod>2019-05-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+
+    <url>
+      <loc>http://www.awazemianwali.info/history.php</loc>
+      <lastmod>2019-05-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+
+    <url>
+      <loc>http://www.awazemianwali.info/login.php</loc>
+      <lastmod>2019-05-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+
+  </urlset>
