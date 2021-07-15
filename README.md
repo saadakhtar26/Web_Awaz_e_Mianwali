@@ -15,13 +15,13 @@ This Point of Sale project is built using core PHP
 
 DB: ```"awazemianwali"```
 
-## Screenshot
+## Home Page
 ![Screenshot](index.png?raw=true "Index - About Comapny")
 
 
-## Screenshot
+## Search
 ![Screenshot](search.png?raw=true "Search News")
 
 
-## Screenshot
+## Login
 ![Screenshot](login.png?raw=true "Login")
