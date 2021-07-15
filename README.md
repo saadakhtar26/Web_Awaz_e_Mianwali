@@ -16,4 +16,12 @@ This Point of Sale project is built using core PHP
 DB: ```"awazemianwali"```
 
 ## Screenshot
-![Screenshot](/assets/media/dashboard.png?raw=true "Index - About Comapny")
+![Screenshot](index.png?raw=true "Index - About Comapny")
+
+
+## Screenshot
+![Screenshot](search.png?raw=true "Search News")
+
+
+## Screenshot
+![Screenshot](login.png?raw=true "Login")
